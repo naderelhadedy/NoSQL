@@ -1,2 +1,9 @@
 # NoSQL
-Different Assignments
+
+> These tasks are about 
+
+* CRUD
+* Aggregation
+* Replication
+* Sharding
+* Streaming
